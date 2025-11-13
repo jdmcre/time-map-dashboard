@@ -251,7 +251,7 @@ export default function Page() {
       </div>
 
       {/* @ts-ignore - ElevenLabs custom element */}
-      <elevenlabs-convai agent-id="agent_2801k9xbtbw0e8qsnhg8c8kjn4n8" />
+      <elevenlabs-convai agent-id="agent_2801k9xbtbw0e8qsnhg8c8kjn4n8"></elevenlabs-convai>
       <Script
         src="https://unpkg.com/@elevenlabs/convai-widget-embed"
         strategy="afterInteractive"
