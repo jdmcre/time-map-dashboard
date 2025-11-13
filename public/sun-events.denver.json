@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2024-09-08",
+    "sunrise_local": "2024-09-08T06:34:00-06:00",
+    "sunset_local": "2024-09-08T19:23:00-06:00",
+    "sunrise_utc": "2024-09-08T12:34:00Z",
+    "sunset_utc": "2024-09-09T01:23:00Z",
+    "day_length_seconds": 46140
+  },
+  {
+    "date": "2024-09-09",
+    "sunrise_local": "2024-09-09T06:35:00-06:00",
+    "sunset_local": "2024-09-09T19:21:00-06:00",
+    "sunrise_utc": "2024-09-09T12:35:00Z",
+    "sunset_utc": "2024-09-10T01:21:00Z",
+    "day_length_seconds": 45960
+  },
+  {
+    "date": "2024-09-10",
+    "sunrise_local": "2024-09-10T06:36:00-06:00",
+    "sunset_local": "2024-09-10T19:19:00-06:00",
+    "sunrise_utc": "2024-09-10T12:36:00Z",
+    "sunset_utc": "2024-09-11T01:19:00Z",
+    "day_length_seconds": 45780
+  },
+  {
+    "date": "2024-09-11",
+    "sunrise_local": "2024-09-11T06:37:00-06:00",
+    "sunset_local": "2024-09-11T19:17:00-06:00",
+    "sunrise_utc": "2024-09-11T12:37:00Z",
+    "sunset_utc": "2024-09-12T01:17:00Z",
+    "day_length_seconds": 45600
+  },
+  {
+    "date": "2024-09-12",
+    "sunrise_local": "2024-09-12T06:38:00-06:00",
+    "sunset_local": "2024-09-12T19:15:00-06:00",
+    "sunrise_utc": "2024-09-12T12:38:00Z",
+    "sunset_utc": "2024-09-13T01:15:00Z",
+    "day_length_seconds": 45420
+  }
+]
